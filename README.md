@@ -5,4 +5,4 @@
 ## How to run (via command line)
 
 - `export FIREFOX_READING_LIST='/some/folder/readinglist.json'`
-- `python3 firefox-to-vivaldi.py`
+- `python3 firefox_to_vivaldi.py`
