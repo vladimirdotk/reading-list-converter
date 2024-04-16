@@ -1,4 +1,4 @@
-""" Reading list converter. Converts browsers reading from Firefox to Vivaldi format. """
+""" Reading list converter. Converts browser reading list from Firefox to Vivaldi format. """
 
 import json
 import csv
